@@ -1,6 +1,5 @@
-package com.example.bookbudproto.ui.theme
+package com.example.bookbudproto.ui.Uİ.`ui̇`.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
